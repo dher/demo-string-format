@@ -2,7 +2,7 @@
 
 Code:
 ```java
-String text = "Hello %s, today the weather id %s";
+String text = "Hello %s, today the weather is %s";
 
 String nama = "derry";
 String cuaca = "rainy";
@@ -13,5 +13,5 @@ System.out.println(result);
 
 result:
 ```
-Hello derry, today the weather id rainy
+Hello derry, today the weather is rainy
 ```
