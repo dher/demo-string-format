@@ -2,7 +2,7 @@ public class DemoStringFormat {
 
     public static void main (String[] args){
         // this should be in the file properties
-        String text = "Hello %s, today the weather id %s";
+        String text = "Hello %s, today the weather is %s";
 
 
         // this is parameter in java class
